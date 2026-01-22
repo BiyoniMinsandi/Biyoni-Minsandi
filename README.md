@@ -8,8 +8,6 @@
 
 <br/>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
 ### 🚀 About Me
 
 ```yaml
@@ -157,15 +155,6 @@ hobbies:
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BiyoniMinsandi&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
----
 
 <h2 align="center">📝 Latest Blog Posts & Articles</h2>
 
@@ -173,8 +162,8 @@ hobbies:
 
 ### ✍️ Medium Articles
 <!-- MEDIUM:START -->
-- Principles of Software Testing Explained for Beginners]([https://medium.com/@yourusername/article-1(https://medium.com/@biyoniminsandi/principles-of-software-testing-explained-for-beginners-f7fce25779df))
-- What Is Software Testing A Beginner’s Guide to QA Engineering([https://medium.com/@yourusername/article-2](https://medium.com/@biyoniminsandi/what-is-software-testing-a-beginners-guide-to-qa-engineering-20b8c486d17e))
+- [Principles of Software Testing Explained for Beginners][(https://medium.com/@biyoniminsandi/principles-of-software-testing-explained-for-beginners-f7fce25779df)]
+- [What Is Software Testing A Beginner’s Guide to QA Engineering][(https://medium.com/@biyoniminsandi/what-is-software-testing-a-beginners-guide-to-qa-engineering-20b8c486d17e)]
 <!-- MEDIUM:END -->
 
 ➡️ [**More Articles...**](https://medium.com/@biyoniminsandi)
@@ -187,10 +176,10 @@ hobbies:
 
 <div align="center">
 
-| 🚀 Project | 📝 Description | 🔗 Link | ⭐ Stars |
+| 🚀 Project | 📝 Description | 🔗 Link | 
 |------------|----------------|---------|----------|
-| Eventora | A web-Based Event Vendor marketplace to connect all Event vendors and clients to a centralized marketplace| [View](https://github.com/yourusername/project1) | ![Stars](https://img.shields.io/github/stars/yourusername/project1?style=social) |
-|qa-manual-testing-shelflink | A documentation with test scenarios and test cases with results created using the testing od shelflink web application I developed with mt second year software project group members | [View](https://github.com/BiyoniMinsandi/qa-manual-testing-shelf-link) | ![Stars](https://img.shields.io/github/stars/yourusername/project2?style=social) |
+| Eventora | A web-Based Event Vendor marketplace to connect all Event vendors and clients to a centralized marketplace| [View](https://github.com/yourusername/project1)|
+|qa-manual-testing-shelflink | A documentation with test scenarios and test cases with results created using the testing od shelflink web application I developed with mt second year software project group members | [View](https://github.com/BiyoniMinsandi/qa-manual-testing-shelf-link) |
 
 </div>
 
@@ -216,17 +205,7 @@ hobbies:
 <h2 align="center">💡 Random Dev Quote</h2>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Testing shows the prescence,ot tge absence og bugs" />
-</div>
-
-<br/>
-
----
-
-<h2 align="center">😂 Random Dev Meme</h2>
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+  <img src="" alt="Testing shows the prescence,ot tge absence og bugs" />
 </div>
 
 <br/>
