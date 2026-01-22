@@ -52,8 +52,6 @@
 
 <br clear="right"/>
 
-### 💼 What I Do
-
 - ### 💼 What I Do
 
 - 🔭 Building and testing **reliable software solutions** that deliver real value to users
@@ -141,11 +139,14 @@
 <br/>
 
 ---
+<h2 align="center">🎯 Current Focus</h2>
 
-### 🎯 Current Focus
+<div align="center">
 -Postman Student Expert certification
 -Writing test cases + bug reports
--Building Eventora modules (booking + dispute resolution)
+-Building Eventora 
+
+ </div> 
 <br/>
 
 ---
