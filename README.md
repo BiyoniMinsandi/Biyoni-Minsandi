@@ -142,6 +142,14 @@
 
 ---
 
+### 🎯 Current Focus
+- Postman Student Expert certification
+- Writing test cases + bug reports
+- Building Eventora modules (booking + dispute resolution)
+<br/>
+
+---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
