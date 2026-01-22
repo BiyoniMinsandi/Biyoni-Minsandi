@@ -116,6 +116,7 @@
 ### ✍️ Medium Articles
 <!-- MEDIUM:START -->
 -Principles of Software Testing Explained for Beginners(https://medium.com/@biyoniminsandi/principles-of-software-testing-explained-for-beginners-f7fce25779df)
+
 -What Is Software Testing A Beginner's Guide to QA Engineering(https://medium.com/@biyoniminsandi/what-is-software-testing-a-beginners-guide-to-qa-engineering-20b8c486d17e)
 <!-- MEDIUM:END -->
 
@@ -142,11 +143,15 @@
 <h2 align="center">🎯 Current Focus</h2>
 
 <div align="center">
+
 -Postman Student Expert certification
+
 -Writing test cases + bug reports
+
 -Building Eventora 
 
  </div> 
+ 
 <br/>
 
 ---
