@@ -1,67 +1,42 @@
-# 👋 Hey Everyone, I'm Biyoni Minsandi
+# 👋 Hey Everyone, I'm [Your Name]
 
-<h3 align="center"> QA Engineer | Information Technology and Management Undergraduate</h3>
+## 💻 Welcome to My GitHub Universe!
 
-<p align="center">
-  <a href="www.linkedin.com/in/biyoni-minsandi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="medium.com/@biyoniminsandi"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="mailto:biyoniminsandi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+### 🚀 About Me
+- 🔨 Building [type of apps/projects] that help people every day
+- 🎓 Focused on learning and innovation
+- 🎨 Enjoy working on a variety of projects
+- 🤝 Open to collaboration
+- 💼 Offering services for [your expertise]
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Biyoni Minsandi&style=flat-square" />
-</p>
+### 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+### 📊 GitHub Stats
 
-## 🚀 About Me
-- 🎓 Undergraduate at **University of Moratuwa** (IT & Management)
-- 🧪 Learning **QA + API Testing (Postman)** and automation basics
-- 💻 Building: **Eventora – Web-Based Event Vendor Marketplace**
-- 🌱 Currently improving: **Java / API testing / test case writing**
-- 📫 Reach me: **biyoniminsandi@gmail.com**
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BiyoniMinsandi&show_icons=true&theme=radical)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-lang/?username=BiyoniMinsandi&layout=compact&theme=radical)
 
-## 🧰 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BiyoniMinsandi&theme=radical)
 
----
+### 📈 Contribution Graph
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Biyoni Minsandi&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biyoni Minsandi&layout=compact&theme=tokyonight" />
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BiyoniMinsandi&theme=react-dark)
 
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=Biyoni Minsandi&theme=tokyonight" />
-</p>
+### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biyoni Minsandi&theme=tokyo-night" />
-</p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=BiyoniMinsandi&theme=darkhula&no-frame=true&row=1&column=6)
+
+### 📫 Connect With Me
+- 📧 Email: your.email@example.com
+- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
 
 ---
 
-
-## 🌟 Featured Projects
-- ✅ **Eventora** – Event vendor marketplace (Next.js + .NET + MongoDB)
-- ✅ **QA Notes & Postman Collections** – API testing practice
-- ✅ **Shelf Link** – (Add 2–3 best repositories)
-- ✅ **ParkSnap** – (Add 2–3 best repositories)
-  
-    - 
-
----
-
-## ✍️ Latest Articles 
-- Coming soon on Medium 🚀
+⭐️ From [BiyoniMinsandi](https://github.com/BiyoniMinsandi)
