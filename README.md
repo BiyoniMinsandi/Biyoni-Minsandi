@@ -117,8 +117,8 @@
 
 ### ✍️ Medium Articles
 <!-- MEDIUM:START -->
-- Principles of Software Testing Explained for Beginners(https://medium.com/@biyoniminsandi/principles-of-software-testing-explained-for-beginners-f7fce25779df)
-- What Is Software Testing A Beginner's Guide to QA Engineering(https://medium.com/@biyoniminsandi/what-is-software-testing-a-beginners-guide-to-qa-engineering-20b8c486d17e)
+-Principles of Software Testing Explained for Beginners(https://medium.com/@biyoniminsandi/principles-of-software-testing-explained-for-beginners-f7fce25779df)
+-What Is Software Testing A Beginner's Guide to QA Engineering(https://medium.com/@biyoniminsandi/what-is-software-testing-a-beginners-guide-to-qa-engineering-20b8c486d17e)
 <!-- MEDIUM:END -->
 
 ➡️ [**More Articles...**](https://medium.com/@biyoniminsandi)
@@ -143,9 +143,9 @@
 ---
 
 ### 🎯 Current Focus
-Postman Student Expert certification
-Writing test cases + bug reports
-Building Eventora modules (booking + dispute resolution)
+-Postman Student Expert certification
+-Writing test cases + bug reports
+-Building Eventora modules (booking + dispute resolution)
 <br/>
 
 ---
