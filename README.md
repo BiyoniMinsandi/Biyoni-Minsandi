@@ -143,9 +143,9 @@
 ---
 
 ### 🎯 Current Focus
-- Postman Student Expert certification
-- Writing test cases + bug reports
-- Building Eventora modules (booking + dispute resolution)
+Postman Student Expert certification
+Writing test cases + bug reports
+Building Eventora modules (booking + dispute resolution)
 <br/>
 
 ---
