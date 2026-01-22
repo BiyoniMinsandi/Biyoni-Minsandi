@@ -110,31 +110,6 @@
 
 ---
 
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BiyoniMinsandi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true" alt="GitHub Stats" />
-  
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BiyoniMinsandi&theme=tokyonight&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-lang/?username=BiyoniMinsandi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8" alt="Top Languages" />
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@BiyoniMinsandi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&layout=compact" alt="WakaTime Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BiyoniMinsandi&bg_color=0d1117&color=f85d7f&line=f8d866&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" />
-</div>
-
-<br/>
-
----
 
 <h2 align="center">📝 Latest Blog Posts & Articles</h2>
 
@@ -142,26 +117,11 @@
 
 ### ✍️ Medium Articles
 <!-- MEDIUM:START -->
-- [Principles of Software Testing Explained for Beginners][(https://medium.com/@biyoniminsandi/principles-of-software-testing-explained-for-beginners-f7fce25779df)]
-- [What Is Software Testing A Beginner's Guide to QA Engineering][(https://medium.com/@biyoniminsandi/what-is-software-testing-a-beginners-guide-to-qa-engineering-20b8c486d17e)]
+- Principles of Software Testing Explained for Beginners(https://medium.com/@biyoniminsandi/principles-of-software-testing-explained-for-beginners-f7fce25779df)
+- What Is Software Testing A Beginner's Guide to QA Engineering(https://medium.com/@biyoniminsandi/what-is-software-testing-a-beginners-guide-to-qa-engineering-20b8c486d17e)
 <!-- MEDIUM:END -->
 
 ➡️ [**More Articles...**](https://medium.com/@biyoniminsandi)
-
-<br/>
-
----
-
-<h2 align="center">🎯 Current Projects & Focus</h2>
-
-<div align="center">
-
-| 🚀 Project | 📝 Description | 🔗 Link | 
-|------------|----------------|---------|----------|
-| Eventora | A web-Based Event Vendor marketplace to connect all Event vendors and clients to a centralized marketplace| [View](https://github.com/yourusername/project1)|
-|qa-manual-testing-shelflink | A documentation with test scenarios and test cases with results created using the testing od shelflink web application I developed with mt second year software project group | [View](https://github.com/BiyoniMinsandi/qa-manual-testing-shelflink)|
-
-</div>
 
 <br/>
 
@@ -182,17 +142,6 @@
 
 ---
 
-<h2 align="center">💡 Random Dev Quote</h2>
-
-<div align="center">
-  <img src="" alt="Testing shows the prescence,ot tge absence og bugs" />
-</div>
-
-<br/>
-
----
-
-<div align="center">
 
 ### 📊 Profile Views Counter
 
