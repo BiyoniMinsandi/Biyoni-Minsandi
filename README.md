@@ -1,71 +1,54 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20My%20GitHub%20Universe!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20My%20GitHub%20Universe!&fontSize=40&fontColor=fff&animation=fadeIn" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+Everyone+%2C+I'm+Biyoni+Minsandi+%F0%9F%91%8B;Welcome+to+My+GitHub+Universe!+%F0%9F%9A%80;Let's+Build+Something+Amazing+Together!+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+Everyone+%2C+I'm+Biyoni+Minsandi+%F0%9F%91%8B;QA+Engineer+%7C+Manual+%26+Automation+Testing;BSc.IT+and+Management+%40+University+of+Moratuwa;Passionate+About+Quality+%26+Testing+%F0%9F%92%BB;Always+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 </div>
 
 <br/>
 
 ### 🚀 About Me
 
-```yaml
-name: Biyoni Minsandi
-located_in: Colombo, Sri Lanka
-current_role: QA Engineer
-education: BSc.Information Technology and Management ,University of Moratuwa
-company: Your Company Name
+👤 **Name:** Biyoni Minsandi  
+📍 **Location:** Colombo, Sri Lanka  
+💼 **Current Role:** QA Engineer  
+🎓 **Education:** BSc. Information Technology and Management, University of Moratuwa  
+🏢 **Company:** Your Company Name
 
-fields_of_interest:
-  [
-    "Quality Assurance Engineering (Manual & Automation)",
-    "Web Application Testing",
-    "Test Automation",
-    "DevOps Fundamentals",
-    "Web Development (Basic)",
-    "Agile & Product Management"
-  ]
+#### 🎯 Fields of Interest
+- Quality Assurance Engineering (Manual & Automation)
+- Web Application Testing
+- Test Automation
+- DevOps Fundamentals
+- Web Development (Basic)
+- Agile & Product Management
 
-technical_skills:
-  [
-    "Java",
-    "Selenium",
-    "Postman (API Testing)",
-    "JavaScript",
-    "Next.js",
-    ".NET (Basic)",
-    "HTML",
-    "CSS"
-  ]
+#### 💻 Technical Skills
+- **Languages:** Java, JavaScript
+- **Testing Tools:** Selenium, Postman (API Testing)
+- **Web Technologies:** Next.js, HTML, CSS
+- **Other:** .NET (Basic)
 
-product_and_management_skills:
-  [
-    "Agile & Scrum",
-    "Requirement Analysis",
-    "Test Planning & Documentation",
-    "Stakeholder Communication",
-    "Basic Project Management"
-  ]
+#### 📊 Product & Management Skills
+- Agile & Scrum
+- Requirement Analysis
+- Test Planning & Documentation
+- Stakeholder Communication
+- Basic Project Management
 
-currently_learning:
-  [
-    "Selenium Automation Frameworks",
-    "Advanced QA Testing Techniques",
-    "AI in Software Testing",
-    "Automation Testing with AI Tools"
-  ]
+#### 🌱 Currently Learning
+- Selenium Automation Frameworks
+- Advanced QA Testing Techniques
+- AI in Software Testing
+- Automation Testing with AI Tools
 
-hobbies:
-  [
-    "Reading",
-    "Doodling",
-    "Swimming",
-    "Painting",
-    "Watching Movies"
-  ]
-
-```
+#### 🎨 Hobbies
+- 📚 Reading
+- ✏️ Doodling
+- 🏊 Swimming
+- 🎨 Painting
+- 🎬 Watching Movies
 
 <br clear="right"/>
 
@@ -79,8 +62,7 @@ hobbies:
 - 🎨 Enjoy working on a **variety of projects**, from academic systems to real-world use cases
 - 👯 Open to **collaboration** on QA, testing, and learning-focused projects
 - 📫 Reach me at: **biyoniminsandi@gmail.com**
-- ⚡ Fun fact: I love a **peaceful digital life**, even though I’m a techie 💻🌿
-
+- ⚡ Fun fact: I love a **peaceful digital life**, even though I'm a techie 💻🌿
 
 <br/>
 
@@ -101,7 +83,6 @@ hobbies:
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 
 ### ⚙️ Backend Development
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -132,7 +113,7 @@ hobbies:
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BiyoniMinsandi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BiyoniMinsandi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true" alt="GitHub Stats" />
   
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BiyoniMinsandi&theme=tokyonight&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
 </div>
@@ -140,7 +121,7 @@ hobbies:
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-lang/?username=BiyoniMinsandi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8&hide=html,css" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-lang/?username=BiyoniMinsandi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8" alt="Top Languages" />
   
   <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@BiyoniMinsandi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&layout=compact" alt="WakaTime Stats" />
 </div>
@@ -148,13 +129,12 @@ hobbies:
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BiyoniMinsandi&bg_color=0d1117&color=f85d7f&line=f8d866&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BiyoniMinsandi&bg_color=0d1117&color=f85d7f&line=f8d866&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" />
 </div>
 
 <br/>
 
 ---
-
 
 <h2 align="center">📝 Latest Blog Posts & Articles</h2>
 
@@ -163,7 +143,7 @@ hobbies:
 ### ✍️ Medium Articles
 <!-- MEDIUM:START -->
 - [Principles of Software Testing Explained for Beginners][(https://medium.com/@biyoniminsandi/principles-of-software-testing-explained-for-beginners-f7fce25779df)]
-- [What Is Software Testing A Beginner’s Guide to QA Engineering][(https://medium.com/@biyoniminsandi/what-is-software-testing-a-beginners-guide-to-qa-engineering-20b8c486d17e)]
+- [What Is Software Testing A Beginner's Guide to QA Engineering][(https://medium.com/@biyoniminsandi/what-is-software-testing-a-beginners-guide-to-qa-engineering-20b8c486d17e)]
 <!-- MEDIUM:END -->
 
 ➡️ [**More Articles...**](https://medium.com/@biyoniminsandi)
@@ -179,7 +159,7 @@ hobbies:
 | 🚀 Project | 📝 Description | 🔗 Link | 
 |------------|----------------|---------|----------|
 | Eventora | A web-Based Event Vendor marketplace to connect all Event vendors and clients to a centralized marketplace| [View](https://github.com/yourusername/project1)|
-|qa-manual-testing-shelflink | A documentation with test scenarios and test cases with results created using the testing od shelflink web application I developed with mt second year software project group members | [View](https://github.com/BiyoniMinsandi/qa-manual-testing-shelf-link) |
+|qa-manual-testing-shelflink | A documentation with test scenarios and test cases with results created using the testing od shelflink web application I developed with mt second year software project group | [View](https://github.com/BiyoniMinsandi/qa-manual-testing-shelflink)|
 
 </div>
 
