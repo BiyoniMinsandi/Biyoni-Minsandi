@@ -1,16 +1,15 @@
 # 👋 Hey Everyone, I'm Biyoni Minsandi
 
-<h3 align="center">YOUR ROLE (e.g., QA Learner | Software Engineering Undergraduate)</h3>
+<h3 align="center"> QA Engineer | Information Technology and Management Undergraduate</h3>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="YOUR_MEDIUM_URL"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/biyoni-minsandi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="medium.com/@biyoniminsandi"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="mailto:biyoniminsandi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Biyoni Minsandi&style=flat-square" />
 </p>
 
 ---
@@ -20,7 +19,7 @@
 - 🧪 Learning **QA + API Testing (Postman)** and automation basics
 - 💻 Building: **Eventora – Web-Based Event Vendor Marketplace**
 - 🌱 Currently improving: **Java / API testing / test case writing**
-- 📫 Reach me: **YOUR_EMAIL**
+- 📫 Reach me: **biyoniminsandi@gmail.com**
 
 ---
 
@@ -39,33 +38,30 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Biyoni Minsandi&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biyoni Minsandi&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Biyoni Minsandi&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biyoni Minsandi&theme=tokyo-night" />
 </p>
 
 ---
 
-## 🏆 Trophies (Optional)
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 ## 🌟 Featured Projects
 - ✅ **Eventora** – Event vendor marketplace (Next.js + .NET + MongoDB)
 - ✅ **QA Notes & Postman Collections** – API testing practice
-- ✅ **University Projects** – (Add 2–3 best repositories)
+- ✅ **Shelf Link** – (Add 2–3 best repositories)
+- ✅ **ParkSnap** – (Add 2–3 best repositories)
+  
+    - 
 
 ---
 
-## ✍️ Latest Articles (Optional)
+## ✍️ Latest Articles 
 - Coming soon on Medium 🚀
