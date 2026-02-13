@@ -14,7 +14,7 @@
 📍 **Location:** Colombo, Sri Lanka  
 💼 **Current Role:** QA Engineer  
 🎓 **Education:** BSc. Information Technology and Management, University of Moratuwa  
-🏢 **Company:** Your Company Name
+
 
 #### 🎯 Fields of Interest
 - Quality Assurance Engineering (Manual & Automation)
